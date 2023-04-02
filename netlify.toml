@@ -1,0 +1,3 @@
+[build]
+publish = "dish"
+command = "npm run build"
